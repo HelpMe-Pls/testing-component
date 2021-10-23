@@ -11,6 +11,13 @@
     "react-scripts": "3.0.1",
     "uuid": "8.1.0"
   },
+  "prettier": {
+    "trailingComma": "none",
+    "tabWidth": 4,
+    "useTabs": true,
+    "semi": false,
+    "singleQuote": true
+  },
   "devDependencies": {
     "typescript": "3.8.3"
   },
