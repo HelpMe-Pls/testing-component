@@ -3,5 +3,4 @@ package-lock.json
 /node_modules
 yarn-error.log
 .yarnrc.yml
-.yarn/releases/yarn-3.0.2.cjs
 /.yarn
